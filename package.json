@@ -13,9 +13,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wences81/watchshop/issues"
+    "url": "https://github.com/wences81/petproject-watchshop-js/issues"
   },
-  "homepage": "https://github.com/wences81/watchshop#readme",
+  "homepage": "https://github.com/wences81/petproject-watchshop-js#readme",
   "dependencies": {
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.6.2",
